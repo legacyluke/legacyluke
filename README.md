@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @legacyluke
-- 🙏 thanks for checking out my stuff
-- 😊 hope you have a great day
-- 🫡
+👋 Hi, I’m @legacyluke
+🙏 thanks for checking out my stuff
+😊 hope you have a great day
+🫡
 
 <!---
 legacyluke/legacyluke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
